@@ -1,3 +1,1 @@
 
-def wahab():
-    print("wahab")
